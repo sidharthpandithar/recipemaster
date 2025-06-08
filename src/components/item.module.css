@@ -1,0 +1,21 @@
+.itemContainer {
+  display: flex;
+  padding: 10px;
+  margin: 30px;
+  box-shadow: 0 4px 6px rgb(0, 0, 0, 0.2);
+  border-radius: 10px;
+  align-items: center;
+}
+.imageContainer {
+  width: 30px;
+  height: 30px;
+}
+
+.image {
+  max-width: 100%;
+  height: auto;
+}
+
+.nameContainer {
+  margin-left: 150px;
+}
