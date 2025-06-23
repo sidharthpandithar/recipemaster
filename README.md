@@ -1,4 +1,4 @@
-# 🍽️ RecipeMaster
+# RecipeMaster
 
 A sleek and simple recipe search application built with ReactJS and the [Spoonacular API](https://spoonacular.com/food-api). Users can search for recipes using keywords, browse through results, and view complete cooking instructions—all on a single page.
 
